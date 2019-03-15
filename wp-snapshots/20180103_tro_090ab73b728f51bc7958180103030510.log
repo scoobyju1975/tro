@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: January 3, 2018 3:05 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.9.1
+PHP INFO:	7.0.0 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 2000)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20180103_tro_090ab73b728f51bc7958180103030510_database.sql 
+SQL FILE SIZE: 200.01KB (204812) 
+SQL FILE TIME: 2018-01-03 03:05:15 
+SQL RUNTIME: 0.26 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/tro 
+ARCHIVE FILE: 20180103_tro_090ab73b728f51bc7958180103030510_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	0B 
+STATS:	Dirs 0 | Files 0 
+SQL ADDED: 20180103_tro_090ab73b728f51bc7958180103030510_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /Applications/MAMP/htdocs/tro/wp-snapshots/tmp/20180103_tro_090ab73b728f51bc7958180103030510_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 25.72KB 
+ARCHIVE RUNTIME: 0.04 sec. 
+MEMORY STACK: 4MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/tro/wp-snapshots/tmp/20180103_tro_090ab73b728f51bc7958180103030510_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 200.01KB 
+Installer File: 443.27KB 
+Archive File: 25.72KB  
+
+********************************************************************************
+RECORD ID:[11]
+TOTAL PROCESS RUNTIME: 0.98 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20180103_tro January 3, 2018 3:05 am
+ 

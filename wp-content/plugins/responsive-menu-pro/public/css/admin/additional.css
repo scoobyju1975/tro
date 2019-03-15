@@ -1,0 +1,13 @@
+#responsive-menu-admin .valid-license {
+    color: green;
+}
+
+#responsive-menu-admin .invalid-license {
+    color: red;
+}
+
+#responsive-menu-admin .responsive-menu-pro-overlay,
+#responsive-menu-admin #upgrade-banner,
+#responsive-menu-admin .nav > li > a .label {
+    display: none;
+}

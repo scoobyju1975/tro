@@ -1,0 +1,44 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: January 3, 2018 3:03 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.9.1
+PHP INFO:	7.0.0 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 2002: Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2) when trying to connect
+ 
+TABLES: total:15 | filtered:0 | create:15 
+SQL CREATED: 20180103_tro_d78a42b5fbdf72e19180180103030329_database.sql 
+SQL FILE SIZE: 90B (90) 
+
+==================================================================================
+DUPLICATOR ERROR
+Please try again! If the error persists see the Duplicator 'Help' menu.
+---------------------------------------------------------------------------------
+MESSAGE:
+	SQL file size too low.
+DETAILS:
+	File does not look complete.  Check permission on file and parent directory at [/Applications/MAMP/htdocs/tro/wp-snapshots/tmp/20180103_tro_d78a42b5fbdf72e19180180103030329_database.sql]
+TRACE:
+	 1. class.pack.database.php : Error (94)
+	 2. class.pack.php : build (232)
+	 3. ctrl.package.php : runBuild (61)
+	 4. class-wp-hook.php : duplicator_package_build (286)
+	 5. class-wp-hook.php : apply_filters (310)
+	 6. plugin.php : do_action (453)
+	 7. admin-ajax.php : do_action (97)
+==================================================================================
+
